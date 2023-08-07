@@ -131,7 +131,7 @@ sudo journalctl -fu webmesh
 
 There are two main ways to connect to the node.
 We'll use the `wmctl` utility and the generated `admin.yaml` configuration file to connect to the node.
-If you have not downloaded the utlity to your local machine, you can do so now following the steps above for your OS and architecture.
+If you have not downloaded the utility to your local machine, you can do so now following the steps above for your OS and architecture.
 
 ```bash
 sudo wmctl connect --config admin.yaml
